@@ -1,0 +1,79 @@
+== Overview ==
+
+The goal of this assignment is to get experience performing a heuristic  evaluation of a real user interface, and to provide useful feedback to your  classmates on their interface designs.
+
+Note that there is an in class presentation/discussion of your results from this phase as well as a written deliverable.  You will also have to do individual work and coordinate group work (with a new group of classmates) prior to those dates.
+
+You will need to schedule time to meet with your group.
+
+
+== Job ==
+
+In this assignment you and the other students in your group will act as  consultants to another group in the class. Assume that they would like some outside  assistance in finding problems with their prototype interface.
+
+This assignment will proceed in two steps.
+
+# First, each student will perform  a heuristic evaluation on their own and write up a report.  This report will be turned in as a part of your deliverable, but should represent ''individual'' work.  It should not be revised based on the group discussion.
+# Second, all  the students in the evaluation group will pool their lists of problems, assign  severity ratings to each problem, and make summary recommendations to the  project group.
+# Finally, the evaluation group will make a report to the design team at a conference time listed above.  This report will be both written and a discussion.
+
+== Individual Evaluation ==
+
+Apply [http://www.useit.com/papers/heuristic/heuristic_list.html|Nielsen's heuristics], or a different set of heuristics if you think a  different set is more appropriate, to the interface.  Make use of the project  group's personas, scenarios, flow charts, screen shots, and interactive prototype.  You should do this in two passes.  In the first pass, read the  group's reports and then try out their prototype (i.e., run it); walk through  their task scenarios. In the second pass, go through the interface (using the scenarios again if appropriate) and look for and note HE violations.
+
+You should concentrate on the interface the group has designed, not only on what has been implemented. Do not focus on features that are missing,  but would clearly be added (e.g., "there should be help on this screen... and  this screen..." -- if it is a globally missing feature you can report it  once). We want to focus on evaluating what they have designed so far.
+
+Use this severity rating scheme:
+
+# Don't think this is a usability problem.
+# Cosmetic problem
+# Minor usability problem
+# Major usability problem; important to fix
+# Usability catastrophe; imperative to fix
+
+The indvidual report should list each of the problems found in the  following format:
+
+  problem # [heuristic # and name] (severity rating)
+  description of  problem and reasoning why you think this violates the heuristic
+
+
+For  example:
+
+
+ 5. [H4 Consistency & Standards] (Severity 3)
+ The  interface used the string "Save" on the first screen for saving
+ the user's file, but used the string "Write file" on the second screen.
+ Users may be  confused by this different terminology for the same function.
+ 
+ 6. [H3 User Control & Freedom] (Severity 4)
+ The interface  brings the user into a set of preference screens when
+ they select "New  User", but doesn't allow the user out of the dialog
+ until they fill out all  4 screens. There is no way to cancel from any
+ of the screens if a user came  into the first screen by accident.
+ 
+ ...
+
+You may also want to include some notes about things that you found that you thought were good, but there is not a formal format for these.  You should be prepared to contribute thoughts on the strengths of the project to the group evaluation process (see below).
+
+The individual evaluation writeup should take no more than two printed  pages. You shouldn't spend more than two hours on this part of the assignment.
+
+== Group Evaluation ==
+
+The group report should begin with an overview evaluation of the project.  This is where you can discuss aspects you found particularly compelling as well as summarize the major issues found.
+
+The central part of the group evaluation should compile all usability violations, eliminating duplicates.  You may find it convenient to present this information in a table.  Make a note of how many evaluators found each error. Decide on the  appropriate severity measure for each violation; negotiate among yourselves  and use an average if you can't come to agreement. List the total number of  violations in each severity category and each heuristic type.
+
+The group report should close with some overall recommendations for  improving the user interface. The group report should take no more than 6 printed pages, including a paragraph or so at the beginning and at the end and a table in the middle summarizing violations.  Think about how best to make this document ''useful'' for the team to whom you are delivering the report.
+
+You shouldn't spend more than an hour and a half on this part of the assignment.
+
+Each group will discuss the results of the HE with their partner group.  Thus you will be presenting both a written and an oral report.
+
+== Turn-In ==
+
+Please email your report to the receiving group.  It should include the group report as well as the individual heuristic evaluations (as appendices).  The format each report is described in the corresponding section above.
+
+Your team should put the report '''about your project''' on your project web page, '''not''' the report that you wrote.
+
+== Provenance ==
+{{HCDLicense}}

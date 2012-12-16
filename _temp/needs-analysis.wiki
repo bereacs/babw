@@ -1,0 +1,67 @@
+The goal of this assignment is to observe (potential) users of your open source project accomplishing the task that you intend to improve upon. Learn about your target users, their goals in engaging in this interaction, their values, and the ways in which this interaction currently satisfies or fails to satisfy those needs and goals. Build models and representations of what you've observed.
+
+== Activity ==
+There are three phases to this activity.
+
+=== User Interviews ===
+Go out and meet some users. You should both observe them and also ask them some questions. Prepare your questions in advance and remind users to think out loud as you observe them. Record your findings. You are encouraged to make use of our video facilities in working with your users. Video allows you review parts of the session as a group later as well as use it to communicate things back to your (geographically distributed) community. 
+
+Some things to think about during your observation and interview:
+
+* The terminology they use
+* The most important tasks/least important tasks
+* The most frequent tasks
+* Time consuming tasks
+* Pain points or areas of frustration
+* Environment 
+
+Remember to keep all of your video and audio assets well organized in our shared server space (which is backed up nightly) -- a <code>README</code> file in each directory describing what each file in that directory contains is '''CRITICAL'''. 
+
+Don’t forget to begin with '''informed consent''' and '''release forms'''.
+
+=== Share your findings and create personas ===
+After you have conducted your interviews/observations, you should consolidate your information and as a team share your findings back with your open source community. Do this through your project website (whether that is part of this wiki or otherwise). 
+
+Once you've collected user information, brainstorm and then build some personas. Pay particular attention to their '''values'''. Their details should reinforce these values and their needs and desires. Along with your personas, you should identify their goals, i.e., what do they want that your project will aim to provide?
+
+You should be prepared to show off a visual representation of each persona in class and online. You will also need to produce a textual description. These personas will provide you with a way of discussing (both with each-other and your community) your designs, as your personas provide a way of grounding all tasks in the context of a user class.
+
+=== Delivery ===
+When you have turned this assignment in, your web site should contain the following deliverables. Remember, page recommendations do not include images -- that is, you're encouraged to use images and embedded video, but this does not mean that the amount of text you write is correspondingly decreased!
+
+# A brief introduction to your problem. This may be extracted directly from your proposal or even consist of a pointer to your proposal. (1 paragraph in most cases; 1 page maximum)
+# Information gathering:
+## Information about the process you used do learn about user needs. This might easily be your HSR protocol/interview plans together with (as appropriate) a few notes about what actually happened and how your ideas changed. (A paragraph or two to a page; 2 page maximum.) 
+## Brief summary of what you learned from users. (A paragraph or two to a page. If necessary, you may provide up to 2 pages.)
+# Your synthesis of what you found:
+## Your visual representation of personas along with enough text to make them freestanding. I should be able to determine their major values, goals, etc., as well as to feel like these are real, three-dimensional people. (Images plus up to a half-page per persona).
+## A lexicon -- word list -- for your conceptual model and/or a diagram of that model. (A third of a page and/or a picture; 1 page maximum) 
+## An explanation of your users' goals. This may be partly folded into the personas, in which case this part will be only a few sentences, or it may be separate, in which case it may be up to a paragraph per persona. (Probably under half a page, but 1 page maximum)
+# Explanation of the process by which you developed the deliverables above. This can include results of interviews or other methods used to assess user needs and goals; it can also include any techniques that you found helpful in sorting out your data and putting it to use. You may wish to explain why you selected particular personas or to justify goals in terms of what you learned from your users. (A paragraph is sufficient; 1 page maximum) 
+# A table listing which team members did which part(s) of the work. (If everyone helped with each part, estimate the percentage amount done by that person on that part of the work. It should add up to 100% for each part.) Please include this item and do so as a spreadsheet in Google Docs that can be updated with a column for each subsequent assignment. Share it with all members of the group and with me. 
+
+NB: The instructors will do a <code>wget</code> (web directory fetch) of your team site, but this will not follow off-site links, so please leave your files where we can find them!
+
+== Due dates: ==
+'''TBA: ''' Consent narrative approved by end of class.
+
+'''TBA: ''' At least two user interviews per HFID student completed.
+
+'''TBA: ''' Interviews substantially complete; share findings and create personas in class.
+
+'''TBA: ''' Persona presentation due in class.
+
+'''TBA: ''' Assignments/NeedsAnalysis (this assignment) due.
+
+== Evaluation ==
+We will use the following questions to assess your work:
+# Did you use an appropriate process to collect information for your personas and goals? Did you explain this process clearly? Did you include adequate documentation to make it clear to the reader how you conducted this process? Did you collect adequate information to make an informed set of personas and goals?
+# Are your personas appropriate to your project? Are they described at an appropriate level of detail to be evocative and useful? Are they archetypal or are they simply caricatures of the users you interviewed? Do you have an appropriate number of personas to appropriately cover your design space while still being useful?
+# Do your personas have well articulated goals? Are these goals useful to your design process?
+# Are your personas and goals appropriately based on the data collected in your observations? Where additional information has been used to form these personas and goals, is this adequately documented?
+# Is your conceptual model and/or lexicon well articulated? Does it correspond to what you learned/heard from your users? Does it appropriately describe your domain in language that your personas would use?
+# Did you include a table explaining which team members did which part(s) of the work? Does each part have 100% total effort? Does effort appear appropriately distributed given your planned division of labor (or do you include an explanation or re-plan as appropriate)?
+# Has this assignment been prepared and presented in a professional manner?
+
+== Provenance == 
+{{HFIDLicense}}

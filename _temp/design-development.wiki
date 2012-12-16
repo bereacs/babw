@@ -1,0 +1,184 @@
+==== Activity ====
+The goal of this activity is to translate your observations of potential users into responsive designs; brainstorm/sketch and then winnow; produce a low fidelity prototype and use it to elicit further user feedback and to further modify your design(s).
+
+Intermediate checkpoints:
+* 3 Designs Storyboard
+* User Script and feedback
+* Prototype photos on web and one or more tests conducted
+
+
+==== Overview ====
+
+In this assignment, your group will first develop and sketch a few designs, then build one or more paper-based prototypes and evaluate these via informal usability tests. You will use the results of these tests to communicate user needs back to your community and develop a high fidelity prototype in the next assignment.
+
+'''Note that this assignment involves user testing.''' This means that you will need to anticipate and schedule these appointments and will also need to develop a user testing plan and script. You should read through this assignment as early as possible, paying particular attention to the user interactions in the testing phase. Your prototypes should be designed to support these tests. You should write up a planned testing script and post it online before you begin user tests. 
+
+Matt needs to sign off on your script before you proceed.
+
+==== Brainstorm and Sketch Several Designs ====
+Based on what you have learned about your users and inspirational designs, sketch several '''distinct''' approaches you might take to solving their problems.  Try to make these approaches very different from one another.  Feel free to be a bit wild with your ideas.  This is the broadest part of the idea process in the course, so if you're ever going to throw in something outrageous, this is the moment.
+
+One strategy is to create ideal design ideas for each persona separately, then look for ways that the ideas and persona needs can be logically combined, focusing on your primary persona.  Another way to create different designs is to put different priorities on different scenarios of use. Emphasizing one scenario over another might end up creating a different organization to your interaction flow.  You can look for inspirational designs -- competitors or interesting products you might like to adopt, even from different domains -- as another source of ideas. Finally, think about your users' needs and goals and think of the wildest possible ways in which these could be met.
+
+For three of these ideas, bring to class a sketch, storyboard, or video demo of how each of these designs would work.  You don't need to have the design fully fleshed out, but you should be able to convey the key aspect of how each would work, meet user goals, and especially differ from the others. Your sketch/storyboard/video demo should be online as well for communicating back to your community. We're interested in hearing what they think as well.
+
+You should continue to refine these ideas and post them to your website.  They should be understandable standalone, i.e., your site should explain what the problem is your users are trying to solve and the approach that the particular interface takes to solving it.  You will also need to select one design to pursue further in this assignment.
+
+'''Q.''' The ... team needs a smidge of clarification on what "two or three" designs means.
+
+'''A.''' The idea is that these designs should differ in more than where what widgets appear on the page (or even which widgets appear on what pages). That is, they should be different ''approaches'' to designing your solution, not just different layouts. They might use somewhat different conceptual models or somewhat different metaphors, for example.
+
+==== Task and Scenario Selection ====
+
+In learning about user needs and goals, you have presumably also identified the major actions that your users (regularly or occasionally) perform in pursuing those goals.  These are their '''tasks'''. Your tasks should be relatively high level -- the main interactions that users have -- but it is OK to include subtasks, especially when those subtasks are shared by multiple top level tasks. (See Snyder 6 and Cooper 11.) 
+
+In analyzing your users, the problem domain and the system(s) currently in use,
+* determine which tasks must be done and which are optional
+* decide how often they will need to be done by each of the personas you have developed.
+
+Make a chart, table, or flow diagram to illustrate the frequency and/or importance of each of these tasks in isolation.
+
+Using the task list or matrix that you have identified, create a set of task scenarios that demonstrate the sequence of actions your personas will have to go through in order to achieve their practical goals. Not every scenario need apply to every persona. Your scenarios should build on the lexicon that you developed for your conceptual model. You will use these scenarios both to guide your designs and to assess your designs throughout the rest of the project. You should end up with at most 3 to 5 primary scenarios; more than this will make it difficult to focus.
+
+You may want to use storyboarding or interaction flows to diagram your scenarios.
+
+You will have to make a judgement call about how many scenarios to create and whether or not you will focus on central (typical) tasks or central tasks plus less common tasks. If your project is wide-ranging you may want the initial design to focus only on central tasks. If your project is more contained (for example, the main tasks for the personas all overlap pretty well) then you may be able to accommodate the less common tasks. If you include more than 3 scenarios, you should be clear on which scenarios are the most critical.
+
+Using the scenarios that you have created, you will need to write up the script that you intend to give to your users, i.e., the instructions that explain what you want them to do. See Snyder for more information on task scripts.  The section on procedure, below,  has an overview of the user tests that you will be conducting.
+
+Post your  test plan on your web site.  Each team will be responsible for reviewing one other team's test plan before you begin user tests and providing feedback by email (carbon-copying me).
+
+==== Prototype Construction ====
+
+Design and construct one or more paper-based prototypes using the techniques outlined in the readings. In addition to the excellent suggestions in Snyder's book, CourseResources/PaperPrototypingResources has more information on these techniques.
+
+Your prototype should be based on your scenarios and one or more of your designs from the earlier parts of this assignment. This can be a good time to pursue parallel design -- try out two fairly different design ideas -- as paper prototypes are relatively easy to construct and to modify. Remember that you do not need to test every aspect of every design in each test. Think about which tests will give you the most information.  You may start with a rough prototype and refine it over the course of this stage, but you should plan to conduct three tests with a stable prototype.
+
+==== Testing ====
+
+Plan to conduct at least three user tests with a stable prototype, and a total of five or more if you can manage it. If your group is dividing to conduct user tests, each group member should be involved in at least three tests, at least one of which uses the stable prototype. Make sure to get one test done as early as possible, so you can identify problems with your process (and fix them) before moving on. Scheduling all three tests for one day, back-to-back, is a recipe for disaster.  
+
+Snyder has a lot of useful advice for usability testing with paper prototypes.
+
+===== Preparation =====
+
+To prepare for the evaluation you should assign team members to the different tasks (i.e., computer, facilitator, etc.) and practice with someone playing the participant. Get any bugs out of your procedures. It may take about 4-8 hours to create the materials and several more hours to practice playing computer. You may also find that you need to revise your script to make the test run more smoothly.
+
+===== Participants =====
+
+Find participants (i.e., volunteers who are not in your group) to work through your task scenarios.  The type of people you recruit should be appropriate based on your task analysis.
+
+You should obtain informed consent from your participants.   Be sure to let participants know they are free to change their mind about doing the study if they do not want to give consent, but if they don't give consent then do not do the study with them.
+
+===== Procedure for Informal Usability Study =====
+
+You should write up a script of how you will proceed and follow the same script with each participant. This script should be based on your tasks.
+
+Tell each participant what they are trying to achieve, but not how to do it. When they are finished, you will give them the directions for the next goal and so on. Each participant will perform tasks to achieve all three goals. Keep the data separate for each task and participant.
+
+Give each participant a short demo of how to work with someone "playing computer". Do not show them exactly how to perform your tasks. Just show how the system works in general and give an example of something specific that is different enough from your scenarios.
+
+Instruct the participant to "think aloud" to let you know what they are thinking as they work. Remember not to give them hints or ask them questions while they are executing their tasks, but you may need to prompt them to keep them talking.
+
+After each participant has finished the tasks, "debrief" them about the interface in general, and follow up on questions and issues that arose during the course of the task execution.
+Location:
+
+It would be preferable if you can find an empty room or a space with only a few other people in it. The 303 studio is a very good place to run your tests.
+
+===== Time =====
+
+Testing the interface should take about an hour per participant.  If your interface is sparse, it may take less time (or you may be able to test two versions).  If your interface is complex, select an aspect to test that will fit into a session not longer than an hour.
+
+===== Measurements and Observations =====
+
+Keep a log of critical incidents (both positive and negative events). For example, the user might make a mistake and you notice it or they might see something they like and say "cool". Keep track of when they hesitate and when they proceed confidently. You may want to write this on a copy of the script or of sketches showing the interface at different stages. Later you should prioritize these events and give severity ratings to the problems you observed.  Snyder gives a nice description of how to conduct a usability test and the roles of different participants (facilitator, observer, computer).
+
+You should concentrate on process data (i.e., what is happening in the big picture) rather than detailed quantitative data (i.e., time or number of errors). Observers should jot down ideas for alternatives to the design based on what they observe the participants doing.
+
+===== Results =====
+
+Report your results (summaries of the process data) and draw some conclusions with respect to your interface prototype. I want to understand how you would change your system as a result of what you observed.  If you make changes between tests, be sure to document these carefully!
+
+==== Write-up ====
+
+Your write-up -- the portion of your web site devoted to this phase -- should be a guided tour that takes the reader from your initial design ideas through the low fidelity prototype testing and design refinement to the final design that you think your community should pursue in the next phase. Please use images and embedded video to help me and your community to understand what you've done. In this write-up, I will want to know what worked and what didn't, what surprised you and what you expected, and why you have made the choices that you have.
+
+Your rationale -- what design you have chosen, how it differs from where you started, and how your observations led you in this direction -- is really the most important part of this writeup. Your design decisions should be well motivated in terms of the process that you followed. That process in turn should be motivated by your understanding of the user needs from the previous phase. You should present all of this material in a sufficiently professional way that your community will appreciate why your process and recommendations are appropriate. Do not omit dead ends, compromises, or second guessing as they form an important part of your story.  Also include any information that your usability test did not or cannot tell you.
+
+Your web site should include the specific work products of this stage:
+
+* design brainstorming
+* 3 storyboards
+* task analysis
+* usability test plan
+* usability report
+* (optional) competitive/comparative analysis
+
+The first three will likely be a part of your narrative.  The test plan can be included as more of an appendix.  The usability report should tie up your narrative.  Brown gives some good guidance for how to write up test plans (chapter 3) and usability reports (chapter 4).  You may optionally want to include a comparative/competitive analysis, as described in Brown chapter 5.
+
+No matter how you choose to present your work, please add to your work breakdown table with an assessment of who did what work for this stage.
+
+Below, I have included one specific outline that your usability reportmight follow.  This outline is modeled on a report of an experiment, which is one way that a professional might present the design refinement phase that you've just gone through.  You do not need to follow this format, but you should read through it to see the kinds of information that you might wish to include.
+
+At the end of this section, I have also included general guidance on the kinds of questions that I ask when evaluating your web sites.
+
+===== Work products to be included =====
+
+* design brainstorming
+* 3 storyboards
+* task analysis
+* usability test plan
+* usability report
+* (optional) competitive/comparative analysis
+
+===== Possible outline for usability report =====
+NOTE that this outline does not include the design brainstorming/storyboards pieces of the writeup.
+
+# '''Introduction'''
+## Introduce the system being evaluated (1 paragraph)
+## State the purpose and rationale of the experiment (1 paragraph)
+# '''Prototype'''
+## Describe your prototype (1 page plus sketches, and a photo  of the test "computer" is recommended)
+### '''Method'''
+#### Participants (who -- demographics -- and how were they selected) (1 paragraph)
+#### Task Scenarios (1/2 page)
+##### A description of each task and what you looked for when those tasks were performed.
+#### Procedure (1/2 page)
+##### What you did and how.
+# '''Test Measures''' (1 paragraph)
+## What you measured or looked for and why.
+# '''Results''' (1 page)
+## Results of the tests (summary of what you saw).
+# '''Discussion''' (1 page)
+## what you learned from the low-fi evaluation
+## what you will change in your interface from these results
+## what the evaluation could not tell you
+# '''Appendices''' (as many pages as necessary - link from text into the appendices)
+## Materials (all things you read --- demo script, instructions read -- or handed to the participant -- task instructions)
+## Raw data (i.e., entire merged critical incident logs)
+## Appendices may be in pdf if html will be unduly burdensome.
+
+===== General deliverable rubric =====
+
+
+You should consider the following questions in putting together your   
+project web site:
+
+* What are your goals in putting together this site/phase/report?  Presumably you have some key lessons learned and insights to communicate.  Do these come through loud and clear when I look at your site?
+
+* In order for me to believe your main point(s), I also have to feel that you have based your conclusions on a credible and effective process.  Does your site contain the appropriate backup information to satisfy me?  This means
+** what/how you've done to elicit information (including interviewee demographics) AND
+** what information you elicited.  This can include quantitative and qualitative feedback; quotes, images, sketches, etc. can convey the qualitative information.
+* Are your conclusions grounded in the information you've gathered?  Tie your main points to what you've seen and heard, using evidence to support your conclusions as you would in writing an essay or a scientific paper.
+* Think about what is best presented as text, image, graphic, chart, table, video.  How can you most effectively communicate your points?
+* Although in general you should adapt your deliverables to make sure that they work for your team/process, the work breakdown format is one that I'd like you to follow.
+
+== Upcoming Deadlines ==
+* TBA :  3 design storyboards in class; user test plan by end of class
+* TBA :  Feedback to on user test plans
+* TBA : prototype photos on web and one or more tests conducted
+* TBA : testing complete
+* TBA :  this assignment due
+
+== Provenance == 
+{{HFIDLicense}}

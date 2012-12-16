@@ -1,0 +1,156 @@
+== Overview ==
+
+The goals of this assignment are
+
+* to practice selecting aspects of a design for prototyping emphasis; to appropriately scope a design project to maximize information learned.
+* to learn how to build prototypes of user interface ideas using a high fidelity prototyping tool (Inkscape or other).
+* to use professional evaluation tools -- cognitive walkthrough, heuristic evaluation, guidelines -- to assess an interface/interaction design.
+
+To achieve these things, you will revise your interface design, use interactive tools to build a prototype of the design, and evaluate your own design.  In addition, this design will serve as the basis for a heuristic evaluation exercise.
+
+Note that there is an in class presentation of your results from this phase as well as a written deliverable.
+
+== Introspection ==
+
+This assignment comes at about the midpoint of the project.  It also marks a transition from user exploration to professional (designer) assessment and from paper prototyping to building an interface.  You will return to your users once more towards the end of the semester, but for the next few weeks you will focus on being an implementer and an evaluator of computer interfaces.  You will be thinking about which parts of your interface are most important to pursue and about how other interfaces work or could be improved.
+
+You should take this opportunity to reflect on where you are, on what you've done so far and what you have learned from it.  Your team should make the time to have a conversation about this -- perhaps as a part of a design critique a la [http://www.scottberkun.com/essays/essay23.htm|Scott Berkun's How to Run a Design Critique] -- and these thoughts should find their way into your presentation.
+
+== UI Redesign ==
+
+Using the results of your low-fi prototyping sessions, come up with a revised UI design.  To the extent that this does not correspond exactly to your last paper prototype/prior phase writeup, you should document this design using a storyboard, screen sketches, or other appropriate (visual as well as verbal) means.  Make sure the ideas will work for your tasks scenarios. (The scenarios used in the low-fi assignment should work for this, but if you need to adjust them, that's ok.  Make sure that you have good documentation of whatever scenarios you wind up with.)
+
+You have a very short period of time to come up with this prototype, so you should focus on only showing what is essential. This short period should force you to make some hard choices. You will have the opportunity to explain what you had to leave out and why in your writeup.
+
+You may find Scott Berkun's ideas useful in helping you to focus on the aspects of your design that you'll take forward into this next phase.
+
+Once you have a redesign in mind, you should sketch it out so that you have a record of the design. You may use a storyboard, screen sketches, interaction flows, or any other documentation that you think communicates your design visually and/or verbally.  Put this design documentation on your web site.  Also document any  modifications that you  made to your scenarios and any decisions about what you are not including in your next phase.
+
+Bring your re-design to class for presentation.
+
+== Cognitive Walkthrough ==
+
+Once you have a redesign, your team should undertake a Cognitive Walkthrough.  I recommend using [http://www-static.cc.gatech.edu/classes/cs3302/documents/cog.walk.html|Gregory Abowd's process], but you may also find it helpful to look at the instructions on [http://www.pages.drexel.edu/%7Ezwz22/CognWalk.htm|Zhijun (William) Zhang's web pages] or the streamlined versions described by [http://portal.acm.org/citation.cfm?id=332456&coll=portal&dl=ACM&CFID=3259198&CFTOKEN=59556533|Spencer] or [http://portal.acm.org/citation.cfm?id=142869&coll=portal&dl=ACM&CFID=3259199&CFTOKEN=68218487|Rowley and Rhoades].
+
+You should write up the main findings of your cognitive walkthrough and include it on the web site as a part of this assignment. You may continue to revise your walkthrough if you modify your prototype as you build it.  Include enough detail (sketches, screen mockups, or actual prototype) to enable someone reading your walkthrough to figure out what you are referring to.
+
+== Prototyping ==
+
+Use a graphics manipulation program (eg. Inkscape), a prototyping tool, or a user interface builder (e.g., [http://www.balsamiq.com/products/mockups/tour|Balsamiq Mockups], [https://www.dreamspark.com/|Microsoft Expression Studio], [http://jqueryui.com/|jQuery UI]] to create a prototype of your application.  [/The Interactive Prototyping Resources|prototyping resources] page has some useful pointers, including an article on using PowerPoint to make interactive prototypes.  Note that it is HIGHLY desirable that your interface run under a free operating system like Fedora or Ubuntu (or, in a standard web browser).
+
+* Which tool you use depends on the characteristics of your system. If you use a limited-interaction tool like DENIM or PowerPoint, you will probably want to move to one with more capabilities for the second interactive prototype.
+
+This prototype should allow us to run through the scenarios that you worked with in the last assignment. If you have some reason to want to change these, that's fine, but you should have enough scenarios (3?) to show off the range of functionality that your prototype is intended to explore.
+
+The underlying functionality does not have to work fully; you may fake much of the output.  However, the prototype must run autonomously; you cannot fake the output in real time.
+
+'''Your prototype must work in such a way that other people in the class and your open source community can  run it''', either over the web or by downloading files or code and running it, without your participation.  If the setup is something more complicated than a web interface, be sure to  make it easy for other people to run it, since others will also have  to be able to run your interface in order to do the heuristic  evaluation.
+
+Include a web page that informs us how to run the application, and that has links to the scenarios/task setup instructions.  This should be on your web site -- and your prototype should not change after you post it. The prototype and how-to-run-it instructions as well as any guiding scenarios should be included on your group web site.  Heuristic evaluations will take place during the mid-semester prototype freeze and will involve both individual and group work.  See [[HCD/Heuristic Evaluation]] for details.
+
+== Class Presentation and Video ==
+
+Each group will make a 10 minute video presentation of your project to Matt (and any interested classmates) ''after''  your code freeze for this phase.   Be sure to include a link to your presentation from your project page.  Your talk should cover at least the following:
+
+* Goals of the project
+* Main scenarios and personas
+* Current design, including how/why it differs from the low-fi prototypes
+* Demo of the interactive prototype
+* Biggest lesson learned so far
+
+However, your talk should not just be a linear narrative of what you did.  It should have a point -- a story to tell.  Your story might be specific to your problem domain or it might be about the techniques used in this class.  Often, the point is a key lesson that your group has learned.  It is up to you to decide what story to choose, but your entire talk should be structured around that point.
+
+'''YOU MUST LIMIT YOURSELF TO 10 MINUTES AFTER EDITING'''. Your video will be made available online through YouTube and other channels, and therefore cannot be more than 10 minutes long.
+
+My focus in assessing this presentation will be '''whether you have created a comprehensible narrative and whether that narrative is well motivated by the evidence that you've acquired'''.  In other words, I'm interested in whether you understand why you are doing what you are doing and in how you apply the lessons you learn from experience, users, and evaluators. Your community will also be looking at this as a report on your work, and my hope is that your desire to produce excellent work that represents you and Allegheny well will help guide your efforts.
+
+Think of this as a dry run for the final presentations, though of course you will have completed substantial additional work by then.
+
+=== Presentation Schedule ===
+TBA
+
+== Write-up: ==
+
+Your complete assignment will include:
+
+# An explanation of how your design changed between the end of the previous phase and the end of this one, including the reasons for those changes.  You may also include any explanation of how you limited your design and why, as well as sketches of portions of the system that you planned but did not implement and any discussion of the implications of these decisions.
+# Your team's cognitive walkthrough
+# Your (frozen) prototype and instructions 
+# The heuristic evaluation done on your project, i.e., the feedback that you received .  (Note that you will also generate heuristic evaluation feedback, but this won't be a part of what you turn in.)
+# Your presentation.
+
+Your write-up (parts 1 and 2) should be no more than about four pages of text plus figures.  In addition, you should provide (links to) a user's manual (part of 3), the prototype itself (the other part of 3), the heuristic evaluation (part 4), and your presentation (part 5).  Turn in is, as usual, on the web.
+
+You may wish to consider the following questions/issues in your writeup.  Select those most appropriate to communicate your story and rationale.
+
+# Revised Interface design
+## Representative scenarios based on earlier task analyses.  (These may not have changed from earlier assignments, in which case you can link or alude to earlier descriptions.)
+## What you changed in your prototype as a result of low-fi testing or cognitive walkthrough. (Refer to screen shots.)
+## Storyboards of the scenarios (i.e., annotated screen shots or other sketch of what happens)
+## Sketches of screens you planned but did not have time to implement (if applicable)
+
+# Prototype overview
+## Overview of the UI you actually implemented (reference figures from next section)
+## What was left out and why
+## Any "wizard of oz" techniques that are required to make it work (if applicable)
+
+# Tools you used
+## How the tools helped
+## How the tools did not help
+## Problems with the tools
+
+# Screen shots (as many as needed)
+
+Also DO include:
+
+# Description of how to run the interface and the scenarios
+## Remember this will be used by people doing the heuristic evaluation of your interface
+## This description (along with the screen shots) falls outside the four page limit.
+
+# Presentation as you expect to give it in class/gave it November 5.  This may overlap somewhat with the other material, but should be packaged so you're ready to go.
+
+# Contributions by each team member
+
+
+== What to focus on ==
+
+
+When working on your project, think about the following questions.
+
+* How good are the user interface ideas?
+** Are they novel and creative?
+** Are they appropriate for the supported tasks?
+
+* How well does the new design:
+** Accommodate the original task analysis?
+** Incorporate the results of the low-fi prototyping study?
+** Incorporate general sound reasoning?
+** Suit your personas and their goals?
+
+* How much functionality is achieved in the interface prototype?
+** Enough to illustrate the representative tasks?
+** Enough to give a flavor of the interface?
+** Appropriate amount given difficulty of interface ideas?
+
+* Does the writeup:
+** Properly cover the required material?
+** Exhibit good writing?
+
+* Is the class presentation:
+** Clear and informative?
+** Focused on telling a story/drawing conclusions?
+** Within the time constraints?
+
+
+== Upcoming Deadlines ==
+
+* TBA:  Redesign sketch or plan due at end of class (may be partial)
+* TBA:  Redesign complete; cognitive walkthrough in class
+* TBA:  Partial prototype show-and-tell in class
+* TBA:  Prototype frozen; begin [[Assignments/HeuristicEvaluation]]
+* TBA:  In class presentations
+* TBA: [[HCD/Heuristic Evaluation]](individual and group) due
+* TBA:  This assignment due
+
+== Provenance ==
+{{HFIDLicense}}

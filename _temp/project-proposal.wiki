@@ -1,0 +1,104 @@
+=== Assignment Goals ===
+
+The goal of this assignment is to produce a convincing case that
+
+* You have identified an appropriate topic/system.
+* You have a reasonable preliminary understanding of who your target users are and some of their goals in using your chosen topic/system.
+* You will be able to productively use the next phase to develop a clear understanding of your users and their goals.
+* Your project topic is appropriately scoped (not too big, not too small) and/or you will be able to modify its scope appropriately during the next few phases.
+* Your team has the requisite skills to complete the work of this semester, or you have identified gaps and we can develop a plan to address them.
+
+=== Selecting a Project ===
+
+Describe the project on which you intend to spend the semester.  This project should be (an interface for) an open source software system driven.  It may be a stand-alone desktop application, a desktop client to some kind of web service (like a blog client), or a browser-based interface (a "web app").
+
+A good project will be supported by an active community. Further, the task (or tasks) you choose to focus on will be big enough to support multiple possible implementations and designs, but not so big that you can't make effective progress on it. You may find it useful to look at the existing system and how a piece of it might be improved or to propose a new interface that solves an existing problem; your community will help you identify their needs, and you should work with them to solve their problems, not problems that you think are important. Note that web site design should not just be a question of which widgets to put where; it should be about how to help the users accomplish their actual goals.
+
+There is a [http://rockalypse.org/courses/cmpsc303f10/projects/ list of project ideas on the main course page].
+
+=== Team Management Plan ===
+
+In addition to selecting a project, you should also think about how your team will accomplish its work over the semester.  I suggest that you meet with the members of your team and assign management roles to each team member. The manager in a particular area is responsible for making sure the work gets done, not for actually doing the work themselves. 
+
+There are at least two possible ways you could break down management responsibilities: 
+
+==== Top Down / Centralized ====
+
+* group manager (coordinate things; maintain the big picture)
+* evaluation manager (coordinate evaluation of interface, including recruiting of potential users)
+* documentation manager (coordinate writeups)
+* design manager (coordinate design aspects of interface)
+
+If your group has only three members, you might either split the group management task or double it up with one of the other roles.  Depending on your group composition, you may wish to divide the work in another way.  In any case, your writeup should state who is taking on which roles.
+
+'''Note''': This is not a division of labor. You are not assigning the work of (say) the design to a particular individual -- you are, instead, identifying who will be responsible for keeping that part of the project on track.
+
+==== Collaborative / Decentralized ====
+Many open source projects are run as a collaborative meritocracy -- the people who contribute the most to the project engage with each-other to help guide the project. That said, they acknowledge that there is a community of contributors working with them, and they should not ignore those contributors (or they will loose their community!). 
+
+The Open Source Way, [http://theopensourceway.org/book/The_Open_Source_Way-How_to_loosely_organize_a_community.html in chapter 3, talks a bit about loose organizational structures]. Likewise, [http://theopensourceway.org/book/The_Open_Source_Way-Communities_of_Practice.html chapter two talks about "communities of practice."] You'll find, as you read, that most of this is about ''process'', not job titles or roles.
+
+If you decide to follow a more decentralized model for keeping your project on track, you are '''REQUIRED''' to use wikis, IRC, and other tools to log your communications/conversations and keep your process open. There should not be one person driving things and several others passively riding along... and your records should show that you are all actively engaged where you should be.
+
+=== The Project Proposal, AKA What To Turn In ===
+
+Your proposal should be an essay of no more than three to four pages.  It should include a concise statement of the problem you've observed, a rough description of the types of users and their primary goals (this will get fleshed out more in the next assignment using personas and task analysis), the types of people who would act as participants to assess your design (both whom you would like ideally, and whom you will engage lacking the ideal participants -- you will want access to at least 10 people over the course of the semester), suggestions for improvements to the interface and a rationale for those improvements.
+
+Remember that the goal of this assignment is not to convince me that you ''have'' all the answers but that you are in a good position to ''obtain'' the answers.  If you already know all of the answers, the discovery phase (the next couple of assignments) isn't going to be all that interesting, is it?
+
+In addition, you should address how you are going to organize your project's execution (re: management, above). At the least, you should identify where your open source community currently "resides", the kinds of tools they use to communicate, and so on. If you are organizing your own work in a decentralized manner, then you also need to identify where '''you''' will be logging your work -- what pages here in the wiki, what IRC channel(s) you'll be using, and so on.
+
+Specifically:  Please include
+
+# Project members, and what each person's "core competencies" are.  (What do you bring to the project/are you likely to contribute and how will you engage in project activities?)
+# Problem statement
+# Characteristics of primary users and their goals
+# How you will find participants
+# Initial design brainstorming.
+
+Your material should be turned in by linking it from the rockalypse wiki. Ultimately, this will become part of your project's website. You can either do all of your work in this wiki, you can use Google Sites, or a Wordpress instance at rockalypse.org can be provided for you. Please discuss the use of any other infrastructure with me before you proceed down any other path -- the tools I'm providing are archived/backed up regularly, and I do not want you working in a space that does not provide rudimentary protections.
+
+==== Human Ethics Approval ====
+Each group will need to complete the CITI course on research ethics, and submit an ethics approval form.
+
+Your CITI courses must be completed individually. Failure to do them individually, on your own, is a gross violation of professional research ethics (and, for that matter, the Allegheny honor code). The course takes about an hour.
+
+The development of your ethics approval form (that we will submit to the Allegheny human research ethics committee) may be a collaborative process. '''You are encouraged to work together on this.''' Put another way, I am not going to require you to each write your own ethics approval document --- but you should ''all contribute to it in an active manner''. This could be a good Etherpad exercise (or series of exercises) where you write/edit the document that you think will serve for all of your groups. Please, in submitting your document to me for evaluation, include the names of those who took part in the development of the document. (Failure to take part will lower your grade, but you will be welcome to use the document.)
+
+== Rubric ==
+
+Your project proposal will be evaluated against the following questions:
+
+* Have you made the case that you will be able to engage in the next stages of the project in an educationally appropriate and meaningful way?
+** Do you understand your problem well enough to ask good questions?
+*** Is it appropriately scoped (not too big and not too small)?
+*** Is it plausible that you could improve this interaction using the tools and methods covered in this course?
+*** Do you have some insights into how the current solution (if one exists) may be problematic or leave room for improvement?
+*** Do you have at least preliminary thoughts as to how the situation might be improved?
+** Have you identified an appropriate user group?
+*** Are you considering an adequately diverse user group to make the problem interesting?
+*** Will you be able to get adequate access to enough members of this group?
+*** Have you considered any human subjects issues (e.g., those unable to give consent) that might arise with this group?
+** Does your team have the skill set to pull this project off?
+*** Have you identified how you will fill the various roles you need to play?
+*** If your team has gaps, have you raised these and thought about how to fill them?
+* Note that you will ''not'' be evaluated on:
+** the strength of your initial suggested design (though you are expected to have one to show that you've thought about the problem)
+** a comprehensive understanding of either the problem or the user group (If you had these now, there would be no point to the next phase!)
+
+
+The following will not be assessed in your written proposal, but you should be prepared to answer questions about these in class as well.
+
+* Have you adequately considered human subjects issues in consent narrative?
+** Do you have a well thought out plan for obtaining information and making good use of your subjects' time?
+** Does your consent form explain, in lay terms, the nature of your project?
+** Does your consent form explain, in lay terms, any risks to which your participants will be put?  Does it appropriately present, without overstating, any benefits to them?
+** Is your plan ethical?  Does it adhere to the "minimal risk" criteria?
+** Do you have adequate plans to protect your subjects?  Some areas of possible concern:
+*** data confidentiality
+*** job performance
+*** self image
+* Are your documents presented in a professional manner?
+
+== Provenance == 
+{{HFIDLicense}}
